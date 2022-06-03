@@ -4,6 +4,12 @@
 
 这里是包装过的一键启动版，目前适用于 Windows 系统。
 
+## 下载地址
+
+可以在 misaka-writer 交流群（见源项目）的群文件中下载。
+
+或者前往 OneDrive 下载：https://1drv.ms/u/s!Ai4i6DYO25nnr3TZc-u_UJWhjBGo?e=tbWKe5
+
 ## 运行方法
 
 ### 独立窗口
