@@ -1,2 +1,3 @@
 python/*
 !python/readme.md
+*.zip
